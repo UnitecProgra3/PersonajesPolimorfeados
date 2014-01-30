@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1391104605 source:/home/turupawn/Projects/Codeblocks/Polimorfeando/main.cpp
+	<iostream>
+	"Personaje.h"
+	"Curador.h"
+	"Tanque.h"
+	"MagoOscuro.h"
+
+1391103227 /home/turupawn/Projects/Codeblocks/Polimorfeando/Personaje.h
+	<iostream>
+
+1391017743 source:/home/turupawn/Projects/Codeblocks/Polimorfeando/Personaje.cpp
+	"Personaje.h"
+
+1391017723 source:/home/turupawn/Projects/Codeblocks/Polimorfeando/Curador.cpp
+	"Curador.h"
+
+1391017684 /home/turupawn/Projects/Codeblocks/Polimorfeando/Curador.h
+	"Personaje.h"
+
+1391020003 source:/home/turupawn/Projects/Codeblocks/Polimorfeando/Tanque.cpp
+	"Tanque.h"
+
+1391019634 /home/turupawn/Projects/Codeblocks/Polimorfeando/Tanque.h
+	"Personaje.h"
+
+1391104405 source:/home/turupawn/Projects/Codeblocks/Polimorfeando/MagoOscuro.cpp
+	"MagoOscuro.h"
+
+1391104215 /home/turupawn/Projects/Codeblocks/Polimorfeando/MagoOscuro.h
+	"Personaje.h"
+
