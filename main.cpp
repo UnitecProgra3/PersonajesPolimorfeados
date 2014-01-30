@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {
+    //Este es un comentario
     Curador curador(100,10,20);
     Tanque tanque(200,5);
     MagoOscuro mago(80,20);
